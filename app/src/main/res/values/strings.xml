@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name" translatable="false">AndroidCourseLab1</string>
+    <string name="input_greeting_hint">Greeting</string>
+    <string name="input_person_hint">Name</string>
+    <string name="button_send_label">Send</string>
+    <string name="checkbox_remind_greeting_label">Remind greeting</string>
+</resources>
